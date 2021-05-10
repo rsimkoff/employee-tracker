@@ -1,2 +1,1 @@
-const connection = require('./Assets/db/connection.js');
-  
+const connection = require('.connection');

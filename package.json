@@ -1,0 +1,24 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "'HR software App allowing users to manage company departments, employees, and roles.'",
+  "main": "'connection.js'",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsimkoff/employee-tracker.git"
+  },
+  "keywords": [
+    "'SQL",
+    "employee",
+    "tracker'"
+  ],
+  "author": "'Ryan\\",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rsimkoff/employee-tracker/issues"
+  },
+  "homepage": "https://github.com/rsimkoff/employee-tracker#readme"
+}
